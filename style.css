@@ -108,3 +108,18 @@ html:not(.dark-style) .account-settings-links .list-group-item.active {
     padding     : 0.85rem 1.5rem;
     border-color: rgba(24, 28, 33, 0.03) !important;
 }
+
+.image img{
+    width: 70px;
+    height: 70px;
+  
+    display: flex;
+    margin: 0 auto;  
+  
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.name{
+    text-align: center;
+  }
